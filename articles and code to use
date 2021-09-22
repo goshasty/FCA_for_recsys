@@ -1,3 +1,12 @@
+В работе [1] дается обзор существующих методов построение решеток формальных понятий, который необходимы для АФП-метода.
+Авторы реализуют эти методы собственноручно на c++ и тестируют их работатспособность.
+
+В работе [2] утверждается, что алгоритм 
+Норриса [3] является ста
+
+
+
+
 FCA - Kuznetsov - https://www.hse.ru/data/2013/02/20/1306839146/Machine%20Learning%20and%20Formal%20Concept%20Analysis.pdf - 
 A Comparative Study of FCA-Based Supervised Classification Algorithms - https://sci-hub.do/https://link.springer.com/chapter/10.1007/978-3-540-24651-0_26
 Диссертация Виноградова - http://www.frccsc.ru/sites/default/files/docs/ds/002-073-05/diss/17-vinogradov/17-vinogradov_main.pdf?717
@@ -10,3 +19,11 @@ Classification Methods Based on Formal Concept Analysis - Гуров - http://ce
 
 JSM - https://github.com/Mosyamac/JSM_python/blob/master/src/BinaryJSM.py
 JSM ? - https://pypi.org/project/python-utilities-jsm/
+
+
+2. ДСМ-метод: теоретико-множественное объяснение О.М. Аншаков
+1. Comparing performance of algorithms for generating concept
+lattices SERGEI O. KUZNETSOV and SERGEI A. OBIEDKOV
+(https://www.hse.ru/data/2013/02/20/1306839179/Comparing%20performance%20of%20algorithms%20for%20generating%20concept.pdf)
+3. Метрический подход к модификации алгоритмов классификации на основе анализа формальных понятий. Евгений Колмаков. 
+(http://www.machinelearning.ru/wiki/images/6/6e/2015_417_KolmakovEA.pdf)
